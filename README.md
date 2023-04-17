@@ -3,12 +3,6 @@
 
 Tämä työ on toteutettu tieto- ja viestintätekniikan opintoihin liittyvän Web-Tekniikat -moduulin harjoitustyönä. Toimeksiantona oli toteuttaa laajempi verkkosivusto Jari & Taika -nimiselle yhtyeelle. Kuvat ja tekstisisältö annettiin valmiina. Annetussa materiaalissa oli myös asiakkaan toiveita, mutta toimeksiannossa oli mahdollista käyttää omaa luovuutta ja näkemystä. Verkkosivun toteuttamiseen oli varattu neljä viikkoa aikaa. Tavoitteena oli toteuttaa laadukkaat ja edustavat verkkosivut, joissa annettu materiaali on sijoiteltu järkevästi ja desing määritelty. Harjoitustyössä pakollisena osana oli käyttää HTML5 ja CSS3 -kuvauskieliä, sekä JavaScriptiä oli hyödynnettävä vähintään yhdellä sivulla.
 
-# Sallitut tekniikat
-- HTML5
-- CSS3
-- JavaScript
-- jQuery
-- Bootstrap
 
 # Vaatimukset sisällön suhteen
 - Mahdollisuus kuunnella ääninäytteitä, esimerkiksi spotify-linkitys
