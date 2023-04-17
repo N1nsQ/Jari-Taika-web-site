@@ -1,23 +1,42 @@
-﻿# Jari & Taika Web page
-(english below)
+﻿# Jari & Taika Web page (2020)
+ 
+ ![jari-taika-screenshot](https://user-images.githubusercontent.com/77397102/232416209-51468aa9-4616-49ae-8df0-1b040dcd8e36.jpg)
+ 
+Jari & Taika is finnish light music orchestra. Developing and creating web site for this band was an assignment in web development module at my first year of ICT studies at Häme University of Applied Sciences. Web site is developed in finnish language.
 
-Tämä työ on toteutettu tieto- ja viestintätekniikan opintoihin liittyvän Web-Tekniikat -moduulin harjoitustyönä. Toimeksiantona oli toteuttaa laajempi verkkosivusto Jari & Taika -nimiselle yhtyeelle. Kuvat ja tekstisisältö annettiin valmiina. Annetussa materiaalissa oli myös asiakkaan toiveita, mutta toimeksiannossa oli mahdollista käyttää omaa luovuutta ja näkemystä. Verkkosivun toteuttamiseen oli varattu neljä viikkoa aikaa. Tavoitteena oli toteuttaa laadukkaat ja edustavat verkkosivut, joissa annettu materiaali on sijoiteltu järkevästi ja desing määritelty. Harjoitustyössä pakollisena osana oli käyttää HTML5 ja CSS3 -kuvauskieliä, sekä JavaScriptiä oli hyödynnettävä vähintään yhdellä sivulla.
+## Assignment
+
+Create a high quality and elegant web page for Jari & Taika band using given images and information. There is also some wishes from customer that you should consider. Use your creativity and own visions in this work. There is four week time limit.
 
 
-# Vaatimukset sisällön suhteen
-- Mahdollisuus kuunnella ääninäytteitä, esimerkiksi spotify-linkitys
-- Esimerkkejä ohjelmistosta
-- Linkitys facebook-sivustoon
-- Paikka yhteystiedoille tai muu yhteydenottomahdollisuus
-- Kuvagalleria
+## Requirements
+- possibility to listen music samples
+- examples of bands repertoire
+- link to facebook
+- place for contact info or other way to get in touch
+- image gallery 
+- use html5 and css3
+- javascript included at least at one page
 
-# Mitä opin?
-Kurssi painottui HTML5 ja CSS3 -kuvauskielten opiskeluun, ja aivan lopussa tehtiin pieni pintakatsaus JavaScriptiin ja sen mahdollistamiin toiminnallisuuksiin verkkosivujen toteutuksessa. Minulla oli hyvä pohja HTML- ja CSS-kielten parissa jo entuudestaan, joten halusin lähteä haastamaan itseäni ja kokeilla jotain mitä en ollut ennen tehnyt. Näin päädyin toteuttamaan verkkosivut Boostrapin avulla. Projektin parissa työskennellessäni opin perusasiat Boostrapista hyvin, ja ymmärsin miksi se on niin suosittu työkalu web-suunnittelussa. Neljän viikon aikataulu oli lopulta todella tiukka uuden tekniikan parissa työskennellessä, mutta lopputuloksesta tuli hyvin pitkälti sellainen mitä olin suunnitellut. Tässä vaiheessa opintoja JavaScript oli myöskin täysin uusi tekniikka työkalupakissani, ja kiireellisen aikataulun takia sen hyödyntäminen jäi vielä vähälle.
 
-# Jatkokehitys
-Suurin vika verkkosivulla mielestäni on siinä, että joka kerta sivulta toiselle liikkuessa koko sivu ladataan uudelleen. Koska banneri/jumbotron sekä footer ovat samanlaiset joka sivulla, riittäisi, että vain niiden väliin jäävä osa päivittyy. Mikäli banneriin liitetyn soittimen laittaa päälle, katkeaa myös musiikki joka kerta sivulta toiselle liikkuessa. Näin jälkikäteen mietittynä muokkaisin myös Tapahtumat-sivua niin, että ottaisin videot joko kokonaan pois, laittaisin ne omalle sivulleen tai miettisin muuta esitytystapaa. Sivustoa suunnitellessani halusin koota kaiken yhtyeen historian ja tallenteet saman verkko-osoitteen alle, ja siksi sivustolle on upotettu YouTube-videoita vaikkei se ollut yhtyeen toiveissa. Sivu näyttää kuitenkin ehkä hieman täyteen tungetulta ja siksi uudelleen sommittelu voisi olla paikallaan.
+## My ideas
+When I was familiarizing my self to the band and given materials, I noticed that the band had lots of stuff here and there. I wanted to make a website where there is all information, images and interesting articles at the same place. When I googled the band (that I have never heard of before) I suprised when noticing that they had done tours overseas and even been nominated in Eurovisions! I gathered all these big news at the front page and linked them to the original writings.  
 
-# In English
-This project was a part of Web Desing -period in my ICT-studies. Main focus was on HTML5 and CSS3, but also little bit of JavaScript was included in this course. The task was to implement an extensive and high-quality web page based on the given material. There was also four week time limit. Because I had some earlier experience about HTML and CSS, I wanted to challenge myself and this web page was implemented by using Bootstrap.
+From YouTube I found some gig recordings and interwievs that located in several different accounts. I gathered also all videos that I found and linked them to the web site. I spend maybe too much time figuring out all the past gigs and listed them (that information was not given in assignment materials) and also saved all different imagas that I found in bands own social media accounts. There were only couple not so great quality images in given materials.  
 
-I feel I learnd the fundamentals of Bootstrap very well and understood it's popularity among web developers. On the other hand, because of learning Bootstrap I didin't have that much time for learning JavaScript. For that reason there is one huge problem in the website that I should fix: The banner (jumbotron) and footer should not reload everytime when moving from site to site.
+So I had quite a lot material to place in the website. In addition to all this there were bands repertoire, history, albums and presentations and lot more contet that I tried to place nicely to the web site.
+
+![jari-taika-screenshot2](https://user-images.githubusercontent.com/77397102/232422228-f4391804-dda1-468a-a768-822a716be668.jpg)
+
+## What did I learn?
+I wanted to challenge my self little bit and I created the web site using Bootstrap. This was my first time using Bootstrap so it took me most of the given time just learn how to do things. But after figuring out the ideology behind Bootstrap I managed to complete the assingment in given time period. I feel I learnd the fundamentals of Bootstrap very well and understood it's popularity among web developers.  
+
+On the other hand, because of learning Bootstrap I didin't have that much time for learning JavaScript. Javascript is used only in image gallery where images are opening in lightboxes. Also when user hovers a mouse in top of a thumbnail image, it turns black and white and increases a little. This project gave a little taste of JavaScript, but there so much more to explore.
+
+## Improve
+After gathering and placing all the possible information about the band, I just realized that there is too much staff and the web site is kind a heavy looking. Especially sites "Ohjelmisto" (repertoire) and video section in "Tapahtumat" site is kind of messy. Also the text in jumbotron below the band logo does not stand out very well.  
+
+I also had in mind that the jumbotron and footer should stay in a place, not reload every time user changes page. Same issue is with the music player placed in jumbotorn. If user has a song playing in there, it changes or reload every time the page changes. I think that if I'd had time to learn more javascript, the solution would maybe found in there.
+
+
+![jari-taika-screenshot3](https://user-images.githubusercontent.com/77397102/232425256-da5251b1-8409-4f11-aee3-765fa9208895.jpg)
