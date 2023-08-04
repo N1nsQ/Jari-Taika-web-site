@@ -1,4 +1,4 @@
-﻿# Jari & Taika Web page (2020)
+﻿# Jari & Taika Website (2020)
  
  ![jari-taika-screenshot](https://user-images.githubusercontent.com/77397102/232416209-51468aa9-4616-49ae-8df0-1b040dcd8e36.jpg)
  
