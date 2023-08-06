@@ -1,4 +1,4 @@
-﻿# Jari & Taika Website (2020)
+﻿# Jari & Taika Website
  
  ![jari-taika-screenshot](https://user-images.githubusercontent.com/77397102/232416209-51468aa9-4616-49ae-8df0-1b040dcd8e36.jpg)
  
@@ -6,17 +6,7 @@ Jari & Taika is finnish light music orchestra. Developing and creating web site 
 
 ## Assignment
 
-Create a high quality and elegant web page for Jari & Taika band using given images and information. There is also some wishes from customer that you should consider. Use your creativity and own visions in this work. There is four week time limit.
-
-
-## Requirements
-- possibility to listen music samples
-- examples of bands repertoire
-- link to facebook
-- place for contact info or other way to get in touch
-- image gallery 
-- use html5 and css3
-- javascript included at least at one page
+Create a high quality and elegant web page for Jari & Taika band using given images and information. There is also some wishes from customer that you should consider. Use your creativity and own visions in this work. There is four week time limit. The web site should be build using HTML5 and CSS3. JavaScript must be used at least in one site. There must be some possibility to listen music samples (e.g. link to Spotify) and there shoud be some example of bands repertoire. The web site should contain image callery and link to facebook page. There should also be a place for contact info or other way to get in touch.
 
 
 ## My ideas
